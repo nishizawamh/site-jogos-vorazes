@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, serif; /* Define a fonte Georgia para o corpo da página */
+    background-color: #d6c5af; /* Mantém a cor de fundo */
+    color: #800000; /* Define a cor do texto principal */
+}
+
+#introducao-panem h2 {
+    color: #800000; /* Mantém o título principal em vermelho escuro */
+}
+
+#introducao-panem h3 {
+    color: #800000; /* Mantém o subtítulo em vermelho escuro */
+}
+#introducao-panem img {
+    width: 30%;
+    height: auto; /* A altura se ajusta automaticamente para manter a proporção */
+}
